@@ -1,4 +1,4 @@
-#csrf-poc-generator
+csrf-poc-generator
 The csrf-poc-generator is a Python script that can be used to test for Cross-Site Request Forgery (CSRF) vulnerabilities on a website. The script crawls the website up to a specified depth and generates a proof-of-concept (POC) HTML page for each form found on each page.
 
 Usage:
