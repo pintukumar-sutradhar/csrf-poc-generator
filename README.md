@@ -7,7 +7,7 @@ Usage:
 3. Run the script: python csrf_poc_generator.py <url> [-d <depth>]
 
 Options
-1. <url>: the URL of the website to test.
+1. < url >: the URL of the website to test.
 2. -d <depth>: the depth to crawl the website (optional, default is 2).
 
 Disclaimer
