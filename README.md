@@ -4,7 +4,7 @@
 The csrf-poc-generator is a Python script that can be used to test for Cross-Site Request Forgery (CSRF) vulnerabilities on a website. The script crawls the website up to a specified depth and generates a proof-of-concept (POC) HTML page for each form found on each page.
 
 Usage:
-1. Clone the repository: git clone https://github.com/pintukumar-sutradhar/csrf-poc-generator.git
+1. Clone the repository: git clone https://github.com/pintukumar-sutradhar/csrf_poc_generator
 2. Install the required packages: pip install -r requirements.txt
 3. Run the script: python csrf_poc_generator.py <url> [-d <depth>]
 
